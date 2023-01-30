@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "title": {
+        "title": "baju",
+        "price": "12000"
+      },
+      "price": {
+        "requestId": "r-OTm008ZAigpa4sT9qIe",
+        "signal": {}
+      },
+      "id": 1
+    }
+  ]
+}
